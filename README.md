@@ -3,7 +3,7 @@
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ANDR3LU1Z-dot/ANDR3LU1Z-dot/blob/main/devcard.svg" width="400" alt="André Luiz's Dev Card"/></a>
 
 - 👨‍💻 Hoje trabalho como Desenvolvedor Mobile Nativo;
-- 📖 Estou aprendendo MySQL e Room Database;
+- 📖 Estou aprendendo Flow do Kotlin, Swift, Flutter e Backend;
 - 😄 Pronomes: Ele/Dele
 
 ![ANDR3LU1Z-dot's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANDR3LU1Z-dot&show_icons=true&theme=tokyonight)
